@@ -1,2 +1,5 @@
 # hello-world
-Hello World repository
+
+Joao is a silly Brazilian who is forcing me to use GitHub.
+For the greater good!
+
